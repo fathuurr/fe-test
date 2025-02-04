@@ -1,4 +1,4 @@
-Berikut adalah template `README.md` untuk aplikasi Next.js dengan App Router yang mencakup instruksi tentang bagaimana menjalankan aplikasi serta cara menangani masalah dengan beberapa package seperti `sweetalert`, `axios`, `chartjs`, dan `react-chartjs-2`:
+Tentu! Berikut adalah pembaruan pada `README.md` dengan tambahan alasan mengapa Anda menggunakan `Chart.js`:
 
 ```markdown
 # Aplikasi Next.js dengan App Router
@@ -81,6 +81,11 @@ Jika ada masalah dengan `react-chartjs-2`, Anda perlu menginstal package ini ter
 
 Setelah pemasangan selesai, aplikasi akan dapat berjalan tanpa masalah terkait dengan package tersebut.
 
+## Alasan Menggunakan Chart.js
+
+Kenapa saya memilih `Chart.js` untuk visualisasi data di aplikasi ini? Karena, jujur saja, `Chart.js` itu super mudah dipakai dan ringan. Library ini sangat fleksibel, bisa bikin berbagai jenis chart seperti bar, line, pie, dan banyak lagi, semuanya dengan sedikit kode.
+
+
 ## Membuat Build Produksi
 
 Jika Anda ingin membangun aplikasi untuk produksi, gunakan perintah berikut:
@@ -96,6 +101,5 @@ npm start
 ```
 
 Aplikasi akan berjalan di `http://localhost:3000` pada mode produksi.
-
 
 
