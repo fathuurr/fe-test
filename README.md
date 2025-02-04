@@ -1,5 +1,3 @@
-Tentu! Berikut adalah pembaruan pada `README.md` dengan tambahan alasan mengapa Anda menggunakan `Chart.js`:
-
 ```markdown
 # Aplikasi Next.js dengan App Router
 
